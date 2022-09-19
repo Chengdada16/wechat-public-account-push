@@ -41,7 +41,7 @@ export const config = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope:true,
+    horoscope:false,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oM6gy53jeiJCwgW7aw9DhR-ps3Gg",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "P9sz9T20ROrB-OtoKak-EmxVFOvHmHnTFusqJg3vOa4",
+      useTemplateId: "nAcVwacsbxL-gfKfyLiEjc4XsLP5_z57DD1IE_nVfo4",
       // 所在省份
       province: "贵州",
       // 所在城市
